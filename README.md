@@ -18,4 +18,4 @@
 
 <hr>
 
-<div><a href="">Clique aqui</a> para visualizar o resultado.</div>
+<div><a href="https://alerzendee.github.io/aluraBooks/">Clique aqui</a> para visualizar o resultado.</div>
